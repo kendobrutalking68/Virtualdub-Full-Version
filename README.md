@@ -230,3 +230,6 @@ This repository serves as the official landing page for VirtualDub. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of VirtualDub today!**
+
+---
+**Last updated:** 2026-09-09 23:43:35 UTC
