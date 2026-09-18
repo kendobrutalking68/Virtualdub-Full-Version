@@ -232,4 +232,4 @@ This repository serves as the official landing page for VirtualDub. The software
 **Get the most recent version of VirtualDub today!**
 
 ---
-**Last updated:** 2026-09-17 22:34:10 UTC
+**Last updated:** 2026-09-18 00:55:43 UTC
